@@ -1,11 +1,6 @@
 {
   "domain": "xfinity",
-  "name": "Xfinity Usage",
+  "name": "Xfinity",
   "version": "1.0.0",
-  "documentation": "https://github.com/robert-alfaro/xfinity-usage",
-  "requirements": [],
-  "dependencies": [],
-  "codeowners": [
-    "@ralfaro"
-  ]
+  "documentation": "https://github.com/yizhoucc/xfinity-usage"
 }
