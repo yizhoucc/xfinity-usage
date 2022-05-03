@@ -1,6 +1,9 @@
 {
-  "domain": "xfinity",
-  "name": "Xfinity",
-  "version": "1.0.0",
-  "documentation": "https://github.com/yizhoucc/xfinity-usage"
+    "domain": "xfinity",
+    "name": "xfi",
+    "version": "1.0",
+    "documentation": "https://www.home-assistant.io/integrations/aquostv",
+    "requirements": [],
+    "codeowners": [],
+    "config_flow": false
 }
